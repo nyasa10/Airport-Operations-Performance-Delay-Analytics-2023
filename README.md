@@ -164,7 +164,7 @@ Here are key findings from the analysis (update these with your actual results a
 
 ## 🛠️ Skills & Tools Used
 
-**Data Cleaning & Preparation**
+**Data Cleaning & Preparation**-
 
 Excel Power Query
 
@@ -174,7 +174,7 @@ Derived metrics creation
 
 Missing value handling
 
-**Data Visualization**
+**Data Visualization**-
 
 Tableau Desktop
 
@@ -190,7 +190,7 @@ Top N analysis
 
 Interactive filters & dashboard actions
 
-**Analytics & Domain Skills**
+**Analytics & Domain Skills**-
 
 Aviation operations analytics
 
