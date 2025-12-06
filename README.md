@@ -88,7 +88,7 @@ This cleaned dataset is used for all visualizations.
 
 The Tableau dashboard consists of six key components:
 
-## 1️⃣ KPI Cards
+ **1️⃣ KPI Cards**
 
 - Average Arrival Delay
 
@@ -98,73 +98,73 @@ The Tableau dashboard consists of six key components:
 
 These provide a quick snapshot of overall flight performance in 2023.
 
-## 2️⃣ Heatmap: Delay Patterns (Day × Hour)
+**2️⃣ Heatmap: Delay Patterns (Day × Hour)**
 
-Reveals operational bottlenecks:
+- Reveals operational bottlenecks:
 
-Which hours experience the worst delays
+- Which hours experience the worst delays
 
-Weekday vs weekend delay patterns
+- Weekday vs weekend delay patterns
 
-Insights for airport/airline scheduling optimizations
+- Insights for airport/airline scheduling optimizations
 
-## 3️⃣ Geospatial Airport Delay Map
+**3️⃣ Geospatial Airport Delay Map**
 
 Identifies:
 
-Airports with highest average delays
+- Airports with highest average delays
 
-Distribution of air traffic delays across the country
+- Distribution of air traffic delays across the country
 
-Volume vs performance relationship
+- Volume vs performance relationship
 
-## 4️⃣ Monthly Delay Trend
+**4️⃣ Monthly Delay Trend**
 
 Shows:
 
-Seasonal peaks
+- Seasonal peaks
 
-Weather-related patterns
+- Weather-related patterns
 
-Holiday travel impact
+- Holiday travel impact
 
-Improving or worsening trends
+- Improving or worsening trends
 
-## 5️⃣ Top 10 Worst Routes
+**5️⃣ Top 10 Worst Routes**
 
-A bar chart ranking routes by highest average arrival delay.
+- A bar chart ranking routes by highest average arrival delay.
 
-Highlights long-haul or congestion-prone sectors that contribute most to network inefficiency.
+- Highlights long-haul or congestion-prone sectors that contribute most to network inefficiency.
 
-## 6️⃣ Airline On-Time Performance Ranking
+**6️⃣ Airline On-Time Performance Ranking**
 
 Ranked comparison of major U.S. carriers:
 
-Best vs worst airlines
+- Best vs worst airlines
 
-Service reliability
+- Service reliability
 
-Insights into operational consistency
+- Insights into operational consistency
 
-# 🔍 Insights Summary
+**🔍 Insights Summary**
 
 Here are key findings from the analysis (update these with your actual results after reviewing the dashboard):
 
-Certain time windows (e.g., late evening) show highest delays, suggesting congestion or cascading delays.
+- Certain time windows (e.g., late evening) show highest delays, suggesting congestion or cascading delays.
 
-Weather-related delays spike during winter months.
+- Weather-related delays spike during winter months.
 
-A handful of routes contribute disproportionately to total delay minutes.
+- A handful of routes contribute disproportionately to total delay minutes.
 
-Some carriers consistently outperform others in on-time performance metrics.
+- Some carriers consistently outperform others in on-time performance metrics.
 
-Airports in high-traffic regions show greater susceptibility to NAS (National Airspace System) delays.
+- Airports in high-traffic regions show greater susceptibility to NAS (National Airspace System) delays.
 
-These insights help stakeholders optimize staffing, scheduling, and route planning.
+- These insights help stakeholders optimize staffing, scheduling, and route planning.
 
 ## 🛠️ Skills & Tools Used
 
-Data Cleaning & Preparation
+**Data Cleaning & Preparation**
 
 Excel Power Query
 
@@ -174,7 +174,7 @@ Derived metrics creation
 
 Missing value handling
 
-Data Visualization
+**Data Visualization**
 
 Tableau Desktop
 
@@ -190,7 +190,7 @@ Top N analysis
 
 Interactive filters & dashboard actions
 
-Analytics & Domain Skills
+**Analytics & Domain Skills**
 
 Aviation operations analytics
 
