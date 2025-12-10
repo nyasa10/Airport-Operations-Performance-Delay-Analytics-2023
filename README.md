@@ -34,7 +34,7 @@ Focuses on KPIs, airline performance, route tables, monthly delay causes, and in
 
 Raw data was obtained from the U.S. Bureau of Transportation Statistics (BTS) – On-Time Performance dataset (over 3M rows, 2019–2023).
 
-**Cleaning & Preprocessing**
+**Cleaning & Preprocessing** --
 
 Using Excel Power Query, only 2023 data was extracted. Cleaning involved:
 
@@ -50,7 +50,7 @@ Adding airline lookup table
 
 Calculating total monthly delay minutes
 
-**Features in Cleaned Dataset**
+**Features in Cleaned Dataset**--
 
 Flight Details
 
@@ -103,7 +103,7 @@ Airline Code → Airline Name Mapping
 ## Dashboards
 **1️⃣ Tableau Dashboard – Airport Delay Analytics**
 
-Key Visuals
+Key Visuals-
 
 **⭐ Heatmap: Delay by Hour × Day**
 
@@ -127,7 +127,7 @@ Ranks airlines by on-time performance across 2023.
 
 **2️⃣ Power BI Dashboard – Operational KPI & Root-Cause Analysis**
 
-Key Components
+Key Components-
 
 **⭐ KPI Cards**
 
@@ -177,7 +177,7 @@ Security
 
 Weather
 
-Formatted in K (thousands) with tooltips converting minutes → hours for readability.
+Formatted in K (thousands) with tooltips showing minutes.
 
 **⭐ Interactive Slicers**
 
@@ -199,7 +199,7 @@ Destination City
 ✔ Late Aircraft Delay + Carrier Delay accounted for the majority of delays
 ✔ On-time performance averaged ~77.4% across all flights
 ✔ Cancellation rate remained low (~1.7%), but delays were more common
-✔ Routes such as ___ contributed disproportionately to overall delays
+✔ Routes such as ABQ-SFO, ABE-BNA, ACK-BOS contributed disproportionately to overall delays
 ✔ Delay spikes during evening hours indicate cascading delay effects
 
 ## Skills & Tools Used
@@ -258,14 +258,14 @@ Geospatial patterns
 
 ## How This Project Helps Aviation Stakeholders
 
-Airport Operators
+-Airport Operators
 
 Optimize staffing and runway scheduling based on peak delay periods.
 
-Airlines
+-Airlines
 
 Identify chronic delay-causing routes and improve turnaround consistency.
 
-Passengers
+-Passengers
 
 Understand seasonal and carrier-based reliability trends.
